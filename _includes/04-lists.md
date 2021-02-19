@@ -1,18 +1,17 @@
-###Ordnet liste
+### Ordnet liste
 1. Kjæreste
-   1. Stine
+   a. Stine
 
 2. Kjeledyr
-   1. Storm
-   2. Hybelkaniner
-
+   a. Storm
+   b. Hybelkaniner
 
 3. Barn i huset
-   1. Karsten
-   2. Aksel
+   a. Karsten
+   b. Aksel
 
 
-###Uordnet liste
+### Uordnet liste
 * Sove
 * Spise
 * Trene
